@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b653a69d.css",
+    "main.js": "/static/js/main.42613f0f.js",
+    "static/js/787.3dc72e88.chunk.js": "/static/js/787.3dc72e88.chunk.js",
+    "static/media/258606752_610664313689499__n.webp": "/static/media/258606752_610664313689499_8898527723351827870_n.5fea770f8738eeb6e002.webp",
+    "static/media/jacuzzi-picture-gallery.webp": "/static/media/jacuzzi-picture-gallery.dcf4d258a5d2cff437a7.webp",
+    "static/media/jacuzzi-gallery.webp": "/static/media/jacuzzi-gallery.23525ed98c49a0c4b276.webp",
+    "static/media/sauna-picture-gallery.webp": "/static/media/sauna-picture-gallery.3b0799c45e2df352e2dc.webp",
+    "static/media/dziki.webp": "/static/media/dziki.6a8feb340b3b22fc5d12.webp",
+    "static/media/sauna-inside-picture-gallery.webp": "/static/media/sauna-inside-picture-gallery.96b83143e676bf76f819.webp",
+    "static/media/pic1.webp": "/static/media/pic1.b088006ac980b03fdd69.webp",
+    "static/media/logo-mini.png": "/static/media/logo-mini.0a072f3edb23902e99b8.png",
+    "index.html": "/index.html",
+    "static/media/user-icon.webp": "/static/media/user-icon.b20e8663cfd5b9098fbb.webp",
+    "static/media/user-review-icon.webp": "/static/media/user-review-icon.9f49bb592635e9b7bd92.webp",
+    "main.b653a69d.css.map": "/static/css/main.b653a69d.css.map",
+    "main.42613f0f.js.map": "/static/js/main.42613f0f.js.map",
+    "787.3dc72e88.chunk.js.map": "/static/js/787.3dc72e88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b653a69d.css",
+    "static/js/main.42613f0f.js"
+  ]
+}
